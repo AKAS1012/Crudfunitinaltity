@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CommonUtility",
+    "\\Controllers",
+    "\\Properties",
+    "\\RepositoryLayer"
+  ],
+  "SelectedNode": "\\Controllers\\CrudOperationController.cs",
+  "PreviewInSolutionExplorer": false
+}
